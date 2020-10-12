@@ -1,0 +1,3 @@
+pip install matplotlib
+pip install requests
+pip install bs4
